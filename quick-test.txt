@@ -1,1 +1,0 @@
-To quickly verify the traveltime computation accuracy of the RSGFSM method in homogeneous media, please run the quick-test.cpp file.

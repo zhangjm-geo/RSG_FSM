@@ -1,0 +1,3 @@
+To quickly verify the traveltime computation accuracy of the RSGFSM method in homogeneous media, please run the quick_test.cpp file.
+
+You only need to select the constant velocity model as the input.
