@@ -1,0 +1,11 @@
+--x grid number: nx 101
+--z grid number: nz 101
+--x grid interval (m): dx 10
+--z grid interval (m): dz 10   
+--x source grid position: x0 51  
+--z source grid position: z0 51
+--velocity model file name: velmodel ./model/homo_velocity.bin
+--method(1_FSM;2_2ndFSM;3_SGFSM): method 3
+--analy(1_homo;2_gradient_slow;3_no): analy 1
+--velocity model: velocity 1000
+--constant gradient: gradient 0.1

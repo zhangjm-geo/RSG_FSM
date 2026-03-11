@@ -1,0 +1,11 @@
+--x grid number: nx 501
+--z grid number: nz 140
+--x grid interval (m): dx 10
+--z grid interval (m): dz 10   
+--x source grid position: x0 0  
+--z source grid position: z0 0
+--velocity model file name: velmodel ./model/mar_140_501_h15s
+--method(1_FSM;2_2ndFSM;3_SGFSM): method 1
+--analy(1_homo;2_gradient_slow;3_no): analy 3
+--velocity model: velocity 1000
+--constant gradient: gradient 0.1
