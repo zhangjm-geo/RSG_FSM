@@ -3,7 +3,7 @@
  *
  *  Jing Wang and Jianming Zhang, 9.3.2026
  * 
- *  Contanct: zhangjianming@ouc.edu.cn
+ *  Contanct: 15756461017@163.com or zhangjianming@ouc.edu.cn
  *  ----------------------------------------------------------------------*/
 #include<stdio.h>
 #include<iostream>
