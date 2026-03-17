@@ -1,0 +1,4 @@
+method iter time
+fsm	2	0.005023	
+2ndfsm	21	0.063052
+sgfsm	2	0.002156
