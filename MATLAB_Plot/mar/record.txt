@@ -1,0 +1,4 @@
+method iter time  		error max
+fsm	4	0.028254	
+2ndfsm		
+sgfsm	7	0.021215	
