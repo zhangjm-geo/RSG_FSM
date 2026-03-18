@@ -61,7 +61,7 @@ Please use MATLAB software to open the 'MATLAB_Plot' file path and run the .m fi
 
 
 # Example
- we test on the constant velocity model with a velocity of 1000 m/s on a 101 × 101 mesh, using 10 m spatial intervals. The source location xs is set at (500 m, 500 m). 
+ We test on the constant velocity model with a velocity of 1000 m/s on a 101 × 101 mesh, using 10 m spatial intervals. The source location xs is set at (500 m, 500 m). 
  <pre><code>
 make
 </code></pre>
