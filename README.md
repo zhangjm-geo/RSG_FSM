@@ -5,7 +5,9 @@
 The conventional fast sweeping method (FSM) is based on finite-difference on standard rectangular grid, suffers severely from source singularity near the source. Consequently, errors originating at the source propagate throughout the entire computational domain during the sweeping process in off-axis positions, leading to a significant degradation in traveltime accuracy. To address this problem, a rotated staggered grid fast sweeping method (RSGFSM) is proposed. By rotating coordinates and placing traveltime and slowness on a staggered grid, their spatial separation is reduced, therefore, improving the numerical accuracy of traveltime computation. Meanwhile, additional wave propagation directions are considered in the proposed RSGFSM, thereby effectively mitigating the source singularity problem.
 
 # Requirements
-c/c++ compiler
+C/C++ compiler
+
+C Make
 
 Matlab
 
